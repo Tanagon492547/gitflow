@@ -1,0 +1,3 @@
+naem : Tanagon Chanapukdee
+nikename : Athen
+age : 20
